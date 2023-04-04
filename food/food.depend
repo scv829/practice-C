@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576237125 source:d:\c.b practice file\food\main.c
+	<stdio.h>
+	<stdlib.h>
+

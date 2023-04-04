@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575697106 source:d:\c.b practice file\calendar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
